@@ -118,6 +118,15 @@ else:
 
 ## Output
 
+### For Program 1
+![1](https://user-images.githubusercontent.com/118704873/214079000-8f910521-e0b6-48dd-a11b-1ada22305f72.png)
+
+
+### For Program 2
+![2](https://user-images.githubusercontent.com/118704873/214079051-647679b9-4929-487c-bcb3-202197426267.png)
+
+### For Program 3
+![3](https://user-images.githubusercontent.com/118704873/214079026-34e679fd-3185-48e1-9b6f-9004428b4a18.png)
 
 
 ## Result
